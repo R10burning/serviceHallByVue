@@ -82,7 +82,6 @@
 </template>
 
 <script>
-// 好几把坑aaa 
 export default {
   // aa
   name: 'HelloWorld',
