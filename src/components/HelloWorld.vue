@@ -8,7 +8,6 @@
           href="https://vuejs.org"
           target="_blank"
         >
-          Core Docs
         </a>
       </li>
       <li>
@@ -16,7 +15,6 @@
           href="https://forum.vuejs.org"
           target="_blank"
         >
-          Forum
         </a>
       </li>
       <li>
